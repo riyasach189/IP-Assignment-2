@@ -1,0 +1,9 @@
+URL00, 0.5: abcxyzURL09abcxyz URL02 ksfhsfcbndkjaURL09
+URL01, 0.6: abcxyzURL00abcxyz URL03 ksfhsfcbndkjaURL08
+URL02, 1.0: abcxyzURL01abcxyz URL04 ksfhsfcbndkja
+URL03, 0.25: abcxyzURL02abcxyz URL05 ksfhsfcbndkjaURL06
+URL04, 0.37: abcxyzURL03abcxyz URL06 ksfhsfcbndkjaURL05
+URL05, 0.9: abcxyzURL04abcxyz ksfhsfcbndkjaURL04
+URL06, 0.86: abcxyzURL05abcxyz URL08 ksfhsfcbndkjaURL03
+URL08, 0.3: abcxyzabcxyz URL00 ksfhsfcbndkjaURL01
+URL09, 0.1: abcxyzURL08abcxyz URL01 ksfhsfcbndkjaURL00

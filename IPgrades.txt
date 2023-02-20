@@ -1,0 +1,5 @@
+rollno1, 90.6, A
+rollno2, 49.01, C
+rollno3, 69.86, B
+rollno4, 17.36, F
+rollno5, 100.0, A
